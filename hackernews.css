@@ -1,0 +1,79 @@
+body {
+  background-color: rgb(246, 246, 239);
+  white-space: nowrap;
+}
+.header {
+  background-color: rgb(231, 85, 44);
+}
+
+.btn-link {
+  color: black;
+}
+
+.btn-link:hover {
+  color: black;
+}
+
+.submit-button,
+.create-account-button {
+  background-color: rgb(231, 85, 44);
+}
+
+.submit-button:hover,
+.create-account-button:hover {
+  opacity: 0.75;
+}
+
+ol {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.url-domain {
+  font-size: 60%;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.full-opaque {
+  color: black;
+}
+
+.star-hide {
+  display: none;
+}
+
+.url-hide {
+  display: none;
+}
+
+.create-account,
+.login {
+  background-color: rgb(231, 85, 44);
+}
+
+.hidden {
+  display: none;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.header {
+  color: black;
+}
+
+.fa-trash-alt:hover {
+  color: black;
+}
+
+.loading {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5em;
+}
